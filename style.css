@@ -33,23 +33,22 @@ body{
   
 }
 .donation_button{
-    background-color: rgba(9, 193, 240, 0.986); 
+    background-color: rgba(93, 18, 231, 0.986); 
     margin: auto;
     margin-top: 5vw;
     max-height: 1vw;
     max-width: 20vw;
-    padding: 3vw;
-    padding-bottom: 5vw;
+    padding: 2vw;
+    padding-bottom: 4vw;
     text-align: center;
-    
-
+    border-radius: 8vw;
 }
 .donation_button a{
     text-decoration: none;
     color: white;
     text-align: center;
-    font-size: 3.17vw;
-    font-weight: bold;
+    font-size: 2.32vw;
+    font-family: 'Bowlby One SC';
 }
 .content{
     margin: auto;
