@@ -8,7 +8,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 50vw;
+    height: 70vw;
     filter: blur(2.7px);
     -webkit-filter: blur(2.7px);
 
@@ -21,7 +21,7 @@ body{
     font-weight: bold;
     text-align: center;
     margin: auto;
-    top: 10vw;
+    top: 20vw;
     left: 15vw;
     right: 15vw;
     z-index: 2;
@@ -38,7 +38,8 @@ body{
     margin-top: 5vw;
     max-height: 3vw;
     max-width: 20vw;
-    padding: 2vw;
+    padding: 3vw;
+    padding-bottom: 4vw;
     text-align: center;
     
 
@@ -66,14 +67,14 @@ body{
     margin-right: 3vw;
 }
 img{
-    border: 40px solid skyblue;
+    border: 2vw solid skyblue;
 }
 .content_points{
    padding: 20px;
    width: 60%;
    text-align: center;
    margin: auto;
-   margin-top: 5vw;
+
 } 
 .content_point_heading_a{
     background-color: salmon;
@@ -82,7 +83,7 @@ img{
     margin: auto;
     max-height: 4.5vw;
     padding: 4vw;
-    padding-top: 1vw;
+    padding-top: 1.5vw;
     border-radius: 4vw;
 }  
 .content_point_heading_b{
@@ -93,7 +94,7 @@ img{
     max-height: 4.5vw;
     margin-top: 10px;
     padding: 4vw;
-    padding-top: 1vw;
+    padding-top: 3vw;
     border-radius: 4vw;
 } 
 .content_point_heading_c{
@@ -104,7 +105,7 @@ img{
     max-height: 4.5vw;
     margin-top: 10px;
     padding: 4vw;
-    padding-top: 1vw;
+    padding-top: 1.5vw;
     border-radius: 4vw;
 } 
 .content_point_heading_d{
@@ -115,6 +116,6 @@ img{
     max-height: 4.5vw;
     margin-top: 10px;
     padding: 4vw;
-    padding-top: 1vw;
+    padding-top: 3vw;
     border-radius: 4vw;
 } 
