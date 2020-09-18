@@ -1,0 +1,38 @@
+body{
+    background-image: url(./img/img3.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main_container{
+    background-color: rgba(0, 128, 128, 0.534);
+    width: 60%;
+    height: 570px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+.donate-form-text{
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    width: 40%;
+    border: none;
+    color: black;
+}
+
+.heading{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+#smart-button-container{
+    margin-top: 70px;
+
+}

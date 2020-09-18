@@ -1,0 +1,113 @@
+body{
+    margin: 0 auto;
+    background-color: #F2F3F5;
+}
+.photo{
+    background-image: url(./img/education.jpg);
+    background-size: 1530px 800px;
+    background-repeat: no-repeat;
+    height: 800px;
+    filter: blur(6px);
+  -webkit-filter: blur(6px);
+
+}
+.photo-text{
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.3);
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 60%;
+    height: 40%;
+    font-size: 80px;
+    padding: 20px;
+    text-align: center;
+  
+}
+.donation_button{
+    background-color: rgba(9, 193, 240, 0.986); 
+    padding: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    width: 20%;
+
+}
+.donation_button a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+}
+.content{
+    margin: auto;
+    margin: 20px;
+    text-align: center;
+
+}
+.content_heading{
+    font-size: 40px;
+    
+}
+.content_description{
+    font-size: 20px;
+    line-height: 30px;
+}
+img{
+    border: 40px solid skyblue;
+}
+.content_points{
+   padding: 20px;
+   width: 60%;
+   text-align: center;
+   margin: auto;
+
+
+} 
+.content_point_heading_a{
+    background-color: salmon;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    height: 50px;
+    padding: 30px;
+    border-radius: 20px;
+}  
+.content_point_heading_b{
+    background-color: salmon;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    height: 50px;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 20px;
+} 
+.content_point_heading_c{
+    background-color: salmon;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    height: 50px;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 20px;
+} 
+.content_point_heading_d{
+    background-color: salmon;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    height: 50px;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 20px;
+} 
